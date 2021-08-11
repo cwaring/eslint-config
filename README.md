@@ -2,6 +2,8 @@
 Highly opinionated liniting and formatting to aid rapid development of [ARG projects](https://arg.protocol.ai/). 
 no nits == more ships 🚢
 
+Optimized for Vue 3 projects with Typescript
+
 Including the following plugins:
  - [standard](https://standardjs.com/)
  - [import](https://github.com/import-js/eslint-plugin-import)
