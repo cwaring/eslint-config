@@ -1,8 +1,8 @@
 # eslint-config
-highly opinionated liniting and formatting to aid rapid development of [ARG projects](https://arg.protocol.ai/). 
+Highly opinionated liniting and formatting to aid rapid development of [ARG projects](https://arg.protocol.ai/). 
 no nits == more ships 🚢
 
-including the following plugins:
+Including the following plugins:
  - [standard](https://standardjs.com/)
  - [import](https://github.com/import-js/eslint-plugin-import)
  - [jsonc](https://github.com/ota-meshi/eslint-plugin-jsonc/)
@@ -11,7 +11,7 @@ including the following plugins:
  - [vue 3](https://github.com/vuejs/eslint-plugin-vue)
  - [prettier](https://github.com/prettier/eslint-plugin-prettier)
 
-includes style and standards for: ts, js, vue, yml, json
+Style and standards for: ts, js, vue, yml, json
 
 ## Usage:
 ```sh
