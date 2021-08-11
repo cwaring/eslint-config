@@ -1,6 +1,6 @@
-# eslint-config-arg
+# eslint-config
 highly opinionated liniting and formatting to aid rapid development of [ARG projects](https://arg.protocol.ai/). 
-less nits == more ships 🚢
+no nits == more ships 🚢
 
 including the following plugins:
  - [standard](https://standardjs.com/)
@@ -15,15 +15,15 @@ includes style and standards for: ts, js, vue, yml, json
 
 ## Usage:
 ```sh
-npm i -D eslint-config-arg
+npm i -D @app-research/eslint-config
 
-# peerDependencies (auto installed for npm >v7)
+# peerDeps (auto installed for npm >v7)
 npm i -D eslint prettier
 ```
 
 create `.eslintrc` in your project root
 ```js
 {
-    extends: 'arg'
+    extends: '@app-research'
 }
 ```

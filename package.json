@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-arg",
+  "name": "@app-research/eslint-config",
   "version": "0.1.0",
   "main": "lib/base/index.js",
   "dependencies": {
