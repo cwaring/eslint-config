@@ -21,7 +21,7 @@ npm i -D @app-research/eslint-config
 npm i -D eslint prettier
 ```
 
-create `.eslintrc` in your project root
+Create `.eslintrc` in your project root
 ```js
 {
     extends: '@app-research'

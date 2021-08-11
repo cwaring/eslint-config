@@ -20,6 +20,9 @@
     "eslint": "^7.32.0",
     "prettier": "^2.3.2"
   },
+  "files": [
+    "lib"
+  ],
   "engines": {
     "node": ">=12",
     "npm": ">=7"
