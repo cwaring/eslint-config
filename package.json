@@ -2,6 +2,7 @@
   "name": "@app-research/eslint-config",
   "version": "0.1.0",
   "main": "lib/base/index.js",
+  "repository": "application-research/eslint-config",
   "scripts": {
     "release": "standard-version"
   },
