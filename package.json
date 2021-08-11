@@ -2,6 +2,9 @@
   "name": "@app-research/eslint-config",
   "version": "0.1.0",
   "main": "lib/base/index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.29.1",
     "@typescript-eslint/parser": "^4.29.1",
