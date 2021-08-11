@@ -29,5 +29,8 @@
   "engines": {
     "node": ">=12",
     "npm": ">=7"
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.1"
   }
 }
