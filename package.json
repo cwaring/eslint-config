@@ -1,6 +1,6 @@
 {
   "name": "@app-research/eslint-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "lib/base/index.js",
   "repository": "application-research/eslint-config",
   "scripts": {
