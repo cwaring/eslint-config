@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/application-research/eslint-config/compare/v0.1.2...v0.1.3) (2021-10-01)
+
+
+### Features
+
+* switch to pnpm and update deps ([ae632a4](https://github.com/application-research/eslint-config/commit/ae632a476efd396f4a8d1ce424cd04afefa2ac8c))
+
 ### [0.1.2](https://github.com/application-research/eslint-config/compare/v0.1.1...v0.1.2) (2021-08-13)
 
 
