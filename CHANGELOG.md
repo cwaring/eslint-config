@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/application-research/eslint-config/compare/v0.1.4...v0.1.5) (2021-10-26)
+
+
+### Features
+
+* update deps for eslint v8 ([5a9f4b6](https://github.com/application-research/eslint-config/commit/5a9f4b6ad1daf6816db309c590473d1239cbdbb2))
+
 ### [0.1.4](https://github.com/application-research/eslint-config/compare/v0.1.3...v0.1.4) (2021-10-09)
 
 ### [0.1.3](https://github.com/application-research/eslint-config/compare/v0.1.2...v0.1.3) (2021-10-01)
